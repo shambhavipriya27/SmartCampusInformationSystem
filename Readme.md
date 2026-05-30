@@ -107,7 +107,7 @@ Step 4: Run the Application
 
 Execute the Python program using:
 
-python SmartCampusSystem.py
+python main.py
 
 
 Step 5: Use the Dashboard

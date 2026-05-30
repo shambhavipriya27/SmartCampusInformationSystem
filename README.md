@@ -1,8 +1,6 @@
 Smart Campus Information System
 
-Submitted by 
-Shambhavi Priya (1DS25CS239) 
-Sanjana T.R (1DS25CS235)
+Submitted by Shambhavi Priya (1DS25CS239) and Sanjana T.R (1DS25CS235)
 
 Overview
 
